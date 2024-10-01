@@ -1,3 +1,3 @@
-# File-Integrity-Monitor
+# File Integrity Monitor using Hashing Algorithms
 
 ## Description
