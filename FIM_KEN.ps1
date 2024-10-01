@@ -57,8 +57,8 @@ Function Send-EmailNotification {
 
     $smtpServer = "smtp.gmail.com"
     $smtpPort = 587
-    $smtpUsername = "smtptestken@gmail.com"
-    $smtpPassword = "fijquwxvpdcqouna"
+    $smtpUsername = "smtptest@gmail.com"
+    $smtpPassword = "**************"
 
     $smtpParams = @{
         SmtpServer = $smtpServer
