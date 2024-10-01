@@ -1,7 +1,6 @@
 # File Integrity Monitor using Hashing Algorithms
 
-## Description
-
+### Description
 A File Integrity Monitor (FIM) is a security tool that tracks changes to critical system files by calculating and comparing hash values. Here's how it works:
 
 - Initial Hash Calculation: When the system or files are first monitored, the FIM computes a cryptographic hash (e.g., MD5, SHA-256) for each file. This hash uniquely represents the file's current content.
@@ -12,3 +11,18 @@ A File Integrity Monitor (FIM) is a security tool that tracks changes to critica
 
 - Response: Upon detection, the system can log the change, notify administrators, or even trigger an automated response to investigate or revert the change.
 
+### Languages & utilities
+- Powershell
+
+### Libraries & tools
+- Get-FileHash
+- FileSystemWatcher
+- Send-MailMessage
+- Windows Event Logs
+
+### Environment
+- Windows 11
+
+### System Development Methodology
+
+<img src="[https://i.imgur.com/62TgaWL.png](https://imgur.com/a/B4BiOqs)" height="80%" width="80%"/>
