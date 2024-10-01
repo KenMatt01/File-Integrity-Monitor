@@ -25,5 +25,8 @@ A File Integrity Monitor (FIM) is a security tool that tracks changes to critica
 
 ### System Development Methodology
 
-<p align="center">![Screenshot 2024-10-02 003259](https://github.com/user-attachments/assets/6b04d7aa-3303-4944-b4df-bb006f4dbc53)
+<div align="center">
+![Screenshot 2024-10-02 003259](https://github.com/user-attachments/assets/6b04d7aa-3303-4944-b4df-bb006f4dbc53)
+</div>
+
 
